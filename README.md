@@ -1,4 +1,5 @@
-# Microbes-Classification
+# Microbes Classification
+![image](https://user-images.githubusercontent.com/22665704/166247668-70830f9c-1c7c-423a-85e5-525784c78f00.png)
 
 ## Problem Statement
 Microbes are tiny living things that are found all around us and are too small to be seen by the naked eye. They live in water, soil, and in the air. The human body is home to millions of these microbes too, also called microorganisms.
